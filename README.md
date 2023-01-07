@@ -3,6 +3,8 @@ VPN
 --
 bash <(curl -Ls https://raw.githubusercontent.com/ezDiGi/NTQ/main/caidat.sh)
 --
+bash <(curl -Ls https://raw.githubusercontent.com/ezDiGi/NTQ/main/install.sh)
+--
 bash <(curl -Ls https://ezdigi.vn/AikoR/install.sh)
 --
 bash <(curl -Ls https://ezdigi.vn/XrayR/caidat.sh)
