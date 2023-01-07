@@ -165,7 +165,7 @@ RouteConfigPath: # /etc/XrayR/route.json # Path to route config, check https://x
 OutboundConfigPath: # /etc/XrayR/custom_outbound.json # Path to custom outbound config, check https://xtls.github.io/config/base/outbound/ for help
 ConnetionConfig:
   Handshake: 4 # Handshake time limit, Second
-  ConnIdle: 999999999 # Connection idle time limit, Second
+  ConnIdle: 10000000000 # Connection idle time limit, Second
   UplinkOnly: 2 # Time limit when the connection downstream is closed, Second
   DownlinkOnly: 4 # Time limit when the connection is closed after the uplink is closed, Second
   BufferSize: 64 # The internal cache size of each connection, kB 
