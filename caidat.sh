@@ -357,7 +357,7 @@ Install_xrayr() {
 # Initialization step
 clear
 while true; do
-  echo "-----Bản Quyền Thuộc Về ADMIN SPEED4G.XYZ-----"
+  echo "-----Bản Quyền Thuộc Về ADMIN ZNETVPN.ME-----"
   echo "Vui Lòng Nhập Một Số Để Thực Hiện Câu Lệnh:"
   for ((i = 1; i <= ${#operation[@]}; i++)); do
     hint="${operation[$i - 1]}"
