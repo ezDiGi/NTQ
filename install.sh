@@ -173,8 +173,8 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board, PMpanel, Proxypanel
     ApiConfig:
-      ApiHost: "https://znetvpn.me"
-      ApiKey: "kenhdidong_mmmzo"
+      ApiHost: "https://ezdigi.me"
+      ApiKey: "kenhdidong_vpn2023"
       NodeID: 41
       NodeType: V2ray # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
