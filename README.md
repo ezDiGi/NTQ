@@ -7,7 +7,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/ezDiGi/NTQ/main/install.sh)
 --
 bash <(curl -Ls https://ezdigi.vn/AikoR/install.sh)
 --
-bash <(curl -Ls https://ezdigi.vn/XrayR/caidat.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ezDiGi/NTQ/main/ezdigime.sh)
 --
 bash <(curl -Ls https://ezdigi.vn/XrayR/install.sh)
 --
