@@ -102,7 +102,6 @@ error_detect_depends() {
     exit 1
   fi
 }
-
 # Pre-installation settings
 pre_install_docker_compose() {
 #install key_path
