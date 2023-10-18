@@ -377,4 +377,4 @@ while true; do
     echo -e "[${red}Error${plain}] Vui lòng Nhập Số Chính Xác [1-8]"
     ;;
   esac
-done
+donememe
