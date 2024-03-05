@@ -1,8 +1,7 @@
 # NTQ
 PROXY
 --
-bash <(curl -Ls https://raw.githubusercontent.com/serverok/squid-proxy-
-installer/master/squid3-install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/serverok/squid-proxy-installer/master/squid3-install.sh)
 --
 Bước 2: Cấu hình Username:Passwd
 sudo squid-add-user
