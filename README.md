@@ -5,7 +5,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/ezDiGi/NTQ/main/caidat.sh)
 --
 bash <(curl -Ls https://raw.githubusercontent.com/ezDiGi/NTQ/main/install.sh)
 --
-bash <(curl -Ls https://ezdigi.vn/AikoR/install.sh](https://raw.githubusercontent.com/ezDiGi/FileAiko/refs/heads/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ezDiGi/FileAiko/refs/heads/master/install.sh)
 --
 bash <(curl -Ls https://ezdigi.vn/AikoR/install.sh)
 ---
